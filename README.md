@@ -9,10 +9,12 @@ It ensures smooth, uniform surfaces and stronger casts by vibrating the material
 - Designed and modeled in **SolidWorks**.  
 - Motor speed controlled by **Arduino Nano** + **potentiometer** via L298N driver.
 
+
 ## Applications
 - Resin casting  
 - Concrete samples  
 - Plaster molds  
+
 
 ## Future Improvements
 - Optimize spring stiffness to match resonance with motor frequency  
