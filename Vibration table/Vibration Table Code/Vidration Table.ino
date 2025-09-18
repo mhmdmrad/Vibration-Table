@@ -1,4 +1,3 @@
-
 const int potPin = A0;  
 const int enaPin = 9;   
 const int in1Pin = 7;   
