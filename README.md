@@ -15,6 +15,7 @@ It ensures smooth, uniform surfaces and stronger casts by vibrating the material
 - Concrete samples  
 - Plaster molds  
 - For fun
+- For more fun
 
 ## Future Improvements
 - Optimize spring stiffness to match resonance with motor frequency  
